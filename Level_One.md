@@ -576,7 +576,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Adv. of Heap over BST as Priority queue](http://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/)
     - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
     - [ ] [Pseudocode (video)](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
-    - [ ] [Heap Sort]()
+    - [ ] [Heap Sort] (https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/)
     - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C)
     - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
     - [ ] Implement a max-heap:
@@ -591,6 +591,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
+    - [ ] [Nearly sorted algorithm](http://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 
 ## Sorting
 
