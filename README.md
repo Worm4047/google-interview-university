@@ -722,6 +722,13 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] [4. Boyer-Moore](https://www.youtube.com/watch?v=fI7Ch6pZXfM&list=PLe-ggMe31CTdAdjXB3lIuf2maubzo9t66&index=2)
         - [ ] [5. Rabin-Karp](https://www.youtube.com/watch?v=QzI0p6zDjK4&index=1&list=PLe-ggMe31CTdAdjXB3lIuf2maubzo9t66)
     - [ ] [Search pattern in text (video)](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
+    - [ ] Strings in Python
+        - [ ] [Set 1](http://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-1/)
+        - [ ] [Set 2](http://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-2/)
+    - [ ] Strings method in python
+        - [ ] [Set 1](http://www.geeksforgeeks.org/string-methods-python-set-1/)
+        - [ ] [Set 2](http://www.geeksforgeeks.org/string-methods-python-set-2/)
+        - [ ] [Set 3](http://www.geeksforgeeks.org/string-methods-python-set-3/)
 
 - ### Recursion
     - [ ] Stanford lectures on recursion & backtracking:
@@ -1114,7 +1121,6 @@ Have a story, not just data, about something you accomplished.
     - [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
     - [ ] [Divide & Conquer: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
---
 
 
 
