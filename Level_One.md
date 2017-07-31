@@ -1,10 +1,7 @@
-# Google Interview University
-
-Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
 
 ## What is it?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
+This is my multi-month study plan for going from web developer to Google software engineer.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
