@@ -370,7 +370,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
-- [ ] Hired in tech -[Aymptotic section](https://www.hiredintech.com/classrooms/algorithm-design/lesson/48)
+- [x] Hired in tech -[Aymptotic section](https://www.hiredintech.com/classrooms/algorithm-design/lesson/48)
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)

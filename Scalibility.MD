@@ -1,4 +1,5 @@
----
+## What is it ?
+    This is my list of resources to study scalibility and system design.
 
 ## System Design, Scalability, Data Handling
 - **You can expect system design questions if you have 4+ years of experience.**
@@ -124,5 +125,3 @@
         - [Design a recommendation system](http://ijcai13.org/files/tutorial_slides/td3.pdf)
         - [Design a URL-shortener system: copied from above](http://www.hiredintech.com/system-design/the-system-design-process/)
         - [Design a cache system](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
-
----
