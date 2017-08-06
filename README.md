@@ -158,7 +158,7 @@ I'm on the journey, too.
 
 - [ ] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] How Search Works:
-    - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
+    - [x] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
     - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
@@ -366,8 +366,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
  
 - ### Stack
-    - [ ] [Stacks Codemonk](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
-    - [ ] [Stacks Geeks](http://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
+    - [ ] [Stack Codemonk](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
+    - [ ] [Stack Geeks](http://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
     - [ ] [Linked list implementation ](http://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
 
 - ### Queue
