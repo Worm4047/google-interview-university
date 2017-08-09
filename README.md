@@ -315,10 +315,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - [x] Hired in tech -[Aymptotic section](https://www.hiredintech.com/classrooms/algorithm-design/lesson/48)
-- [ ] TopCoder (includes recurrence relations and master theorem):
+- [x] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [x] [Cheat sheet](http://bigocheatsheet.com/)
 
 ## Data Structures
 
