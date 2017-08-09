@@ -324,7 +324,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Arrays
     - [x] [One Dimensional Array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
-    - [ ] [Multi Dimensional Array](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
+    - [x] [Multi Dimensional Array](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
     - [ ] Implement an automatically resizing vector.
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
