@@ -326,7 +326,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [One Dimensional Array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
     - [x] [Multi Dimensional Array](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
     - [x] Implement an automatically resizing vector.
-    - [x] Implement a vector (mutable array with automatic resizing):
+    - [x] [Implement a vector](https://github.com/jcapona/data_structures) (mutable array with automatic resizing):
         - [x] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [x] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
