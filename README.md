@@ -326,7 +326,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [One Dimensional Array](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
     - [x] [Multi Dimensional Array](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
     - [ ] Implement an automatically resizing vector.
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - [x] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
@@ -345,10 +345,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Time
+    - [x] Time
         - O(1) to add/remove at end (amortized for allocations for more space), index, or update
         - O(n) to insert/remove elsewhere
-    - [ ] Space
+    - [x] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
