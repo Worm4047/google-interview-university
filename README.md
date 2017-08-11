@@ -354,8 +354,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Linked Lists
     - [x] [Description](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
-    - [ ] [Linked List VS Array](http://www.geeksforgeeks.org/linked-list-vs-array/)
-    - [ ] Operations
+    - [x] [Linked List VS Array](http://www.geeksforgeeks.org/linked-list-vs-array/)
+    - [x] Operations
         - [Inserting a node](http://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
         - [Deleting a node](http://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
         - [Deleting node at a given position](http://www.geeksforgeeks.org/delete-a-linked-list-node-at-a-given-position/)
