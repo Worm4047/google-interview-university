@@ -359,7 +359,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Inserting a node](http://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
         - [Deleting a node](http://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
         - [Deleting node at a given position](http://www.geeksforgeeks.org/delete-a-linked-list-node-at-a-given-position/)
-    - [ ] [Doubly linked list](http://www.geeksforgeeks.org/doubly-linked-list/)
+    - [x] [Doubly linked list](http://www.geeksforgeeks.org/doubly-linked-list/)
     - [ ] [Circular Linked List](http://www.geeksforgeeks.org/circular-linked-list/)
     - [ ] [Circular Linked list traversal](http://geeksquiz.com/circular-linked-list-set-2-traversal/)
     - [ ][Programmer's approach to linked list vs array](http://www.geeksforgeeks.org/programmers-approach-looking-array-vs-linked-list/)
