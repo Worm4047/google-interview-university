@@ -353,7 +353,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] [Description](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+    - [x] [Description](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
     - [ ] [Linked List VS Array](http://www.geeksforgeeks.org/linked-list-vs-array/)
     - [ ] Operations
         - [Inserting a node](http://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
