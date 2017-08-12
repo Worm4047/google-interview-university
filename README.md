@@ -366,7 +366,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
  
 - ### Stack
-    - [ ] [Stack Codemonk](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
+    - [ ] [Stack Codemonk](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/)
     - [ ] [Stack Geeks](http://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
     - [ ] [Linked list implementation ](http://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
 
