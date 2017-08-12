@@ -373,18 +373,18 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Queue
     - [x] [Queue Codemonk](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/)
     - [x] [Queue Intro](http://geeksquiz.com/queue-set-1introduction-and-array-implementation/)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Priority Queues ](http://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
-    - [ ] Implement using linked-list, with tail pointer:
+    - [x] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
+    - [x] [Priority Queues ](http://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
+    - [x] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [ ] Implement using fixed-sized array:
+    - [x] Implement using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
         - full()
-    - [ ] Cost:
+    - [x] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
