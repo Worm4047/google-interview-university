@@ -371,8 +371,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [Linked list implementation ](http://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
 
 - ### Queue
-    - [ ] [Queue Codemonk](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/)
-    - [ ] [Queue Intro](http://geeksquiz.com/queue-set-1introduction-and-array-implementation/)
+    - [x] [Queue Codemonk](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/)
+    - [x] [Queue Intro](http://geeksquiz.com/queue-set-1introduction-and-array-implementation/)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [Priority Queues ](http://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
     - [ ] Implement using linked-list, with tail pointer:
