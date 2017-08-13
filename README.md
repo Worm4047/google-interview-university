@@ -393,10 +393,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Hash table
     - [x] [Hasing DS Intro](http://geeksquiz.com/hashing-set-1-introduction/)
-    - [ ] [Hashing Codemonk](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/)
-    - [ ] Videos:
-        - [ ] [Hashing with Chaining Intro](http://geeksquiz.com/hashing-set-2-separate-chaining/)
-        - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+    - [x] [Hashing Codemonk](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/)
+    - [] Videos:
+        - [x] [Hashing with Chaining Intro](http://geeksquiz.com/hashing-set-2-separate-chaining/)
+        - [x] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
         - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
         - [ ] [Open Addr. Intro](http://geeksquiz.com/hashing-set-3-open-addressing/)
         - [ ] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -412,7 +412,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/learn/data-structures/lecture/DvaIb/instant-uploads-and-storage-optimization-in-dropbox)
             - [Distributed Hash Tables (video)](https://www.coursera.org/learn/data-structures/lecture/tvH8H/distributed-hash-tables)
 
-    - [ ] Implement with array using linear probing
+    - [x] Implement with array using linear probing
         - hash(k, m) - m is size of hash table
         - add(key, value) - if key already exists, update value
         - exists(key)
