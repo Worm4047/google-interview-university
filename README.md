@@ -392,7 +392,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - empty: O(1) (linked list and array)
 
 - ### Hash table
-    - [ ] [Hasing DS Intro](http://geeksquiz.com/hashing-set-1-introduction/)
+    - [x] [Hasing DS Intro](http://geeksquiz.com/hashing-set-1-introduction/)
     - [ ] [Hashing Codemonk](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/)
     - [ ] Videos:
         - [ ] [Hashing with Chaining Intro](http://geeksquiz.com/hashing-set-2-separate-chaining/)
